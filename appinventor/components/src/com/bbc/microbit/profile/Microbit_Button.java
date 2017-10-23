@@ -25,13 +25,13 @@ import java.util.List;
         "updates for when a user presses a button or read the current state of the buttons. The " +
         "buttons have three states:<br>\n<ul><li>0 - up</li><li>1 - down</li><li>2 - long " +
         "pressed</li></ul>"
-        /* removed until we have tutorials for the button.
+        // removed until we have tutorials for the button.
         + "<br>\n\n<strong>More links:</strong><ul><li>Download a" +
         "<a href='http://iot.appinventor.mit.edu/assets/samples/MicrobitButton.aia' " +
         "target='_blank'>sample project</a> for the micro:bit buttons.</li><li>View the " +
         "<a href='http://iot.appinventor.mit.edu/assets/howtos/MIT_App_Inventor_IoT_Microbit_Button.pdf' " +
         "target='_blank'>how to instructions</a> for the micro:bit buttons.</li></ul>"
-        */,
+        ,
     category = ComponentCategory.EXTENSION,
     nonVisible = true,
     helpUrl = "http://iot.appinventor.mit.edu/#/microbit/microbitbutton",
