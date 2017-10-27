@@ -20,7 +20,7 @@ import java.util.List;
     description = "The <code>Microbit_Magnetometer</code> provides the ability to " +
         "configure the BBC micro:bit's on-board magnetometer and receive one or more magnetometer " +
         "samples via the appropriate methods."
-        /* removed until we have tutorials
+        // removed until we have tutorials
         + "<!--<br>\n\nThe magnetometer's report rate, or period, " +
         "determines how frequently data will be sent to App Inventor.<br>\n\n<strong>More links:" +
         "</strong><ul><li>Download a <a " +
@@ -28,7 +28,7 @@ import java.util.List;
         "target='_blank'>sample project</a> for the BBC micro:bit Magnetometer.</li><li>View the " +
         "<a href='http://iot.appinventor.mit.edu/assets/howtos/MIT_App_Inventor_IoT_Microbit_Magnetometer.pdf' " +
         "target='_blank'>how to instructions</a> for the micro:bit Magnetometer.</li></ul>-->"
-        */,
+        ,
     category = ComponentCategory.EXTENSION,
     nonVisible = true,
     helpUrl = "http://iot.appinventor.mit.edu/#/microbit/microbitmagnetometer",
